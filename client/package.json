@@ -7,8 +7,10 @@
     "package.json": "^2.0.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
     "redux": "^4.0.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "yarn.lock": "^0.0.1-security"
   },
   "devDependencies": {
     "react-scripts": "1.1.4"
